@@ -19,6 +19,8 @@ edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
 
 [addresses]
 stone_coin = "0x0"
+stone_community = "0xbd778d89c6d0f139b9b22f7e4a309edcae6084cad12a3021656fd8a180d7ceb8"
+stone_coin_cex = "0x80aec3de87d6824b5e4ce167847a829359920aa2cf1e51c27644b5db3d4f8f45"
 
 # Named addresses will be accessible in Move as `@name`. They're also exported:
 # for example, `std = "0x1"` is exported by the Standard Library.

@@ -13,7 +13,7 @@ const HomeView: FC = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat animate-parallax"
           style={{
-            backgroundImage: "url('/rsz_screenshot_from_2025-11-24_11-39-30.png')",
+            backgroundImage: "url('/rocks.jpg')",
             backgroundSize: 'cover',
             imageRendering: '-webkit-optimize-contrast',
             transform: 'scale(1.1)',
