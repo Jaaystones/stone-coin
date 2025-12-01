@@ -1,8 +1,5 @@
 
 
-
-
-
 sui client ptb \
     --move-call 0x998d60a9360e75749fd3970b99025906a39b3349d7f434dbb29ac967fc3f7d99::stone::mint \
     @0x4e842e147cdad16353d6e7b178f746b795884d8d158049e7d24cefed9bfaa029  \

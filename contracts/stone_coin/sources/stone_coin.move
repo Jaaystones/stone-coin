@@ -36,7 +36,7 @@ fun init(otw: STONE, ctx: &mut TxContext) {
         b"STONE",
         b"STONE",
         b"Meet STONE the cutest space rock floating through the blockchain cosmos! Dive into a world of fun, community and rewards",
-        option::some(new_unsafe_from_bytes(b"https://drive.google.com/uc?export=view&id=1NUkxZZMBtBaZvH--PJfkX_fcotnPj2es")),
+        option::some(new_unsafe_from_bytes(b"https://jaystones.sirv.com/stone.jpg")),
         ctx
     );
     
