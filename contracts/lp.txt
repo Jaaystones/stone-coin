@@ -1,0 +1,14 @@
+Create a LP (liquidity pool) and pair STONE / SUI
+
+----INITIAL POOL STATE---
+x = 400 000 000 (STONE)
+y = 100 (SUI) = 400 USD
+
+Formula AMM (Automated Market Maker): x * y = k
+
+---DETERMINING THE VALUE---
+
+k = 400 000 000 * 100 = 40 000 000 000
+
+400000000 / 100
+Price per 1 STONE = 0.00000025 SUI
